@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agandreww91.github.io/snippets-q5n8sa/sitemap.xml
